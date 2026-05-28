@@ -2,6 +2,13 @@
 
 A sidebar page for [Playnite](https://playnite.link/) that shows where your installed games live, how much space they take, and how full each of your drives is. Inspired by the Storage page in Steam settings.
 
+<img src="screenshots/1.png" alt="Overview screenshot" width="450">
+<img src="screenshots/2.png" alt="Drives dropdown" width="250">
+
+Steam Storage page reference
+
+<img src="screenshots/3.png" alt="Steam reference" width="350">
+
 ## Attention - AI disclosure
 
 This plugin was almost entirely AI-generated. Although it has been tested and its code has been looked at to ensure basic safety,
