@@ -1,0 +1,12 @@
+Id: DenisionSoft_PlayniteStorageView_Plugin
+Name: Storage View
+Author: DenisionSoft
+Version: 1.0.0
+Module: PlayniteStorageView.dll
+Type: GenericPlugin
+Icon: icon.png
+Links:
+  - Name: GitHub
+    Url: https://github.com/DenisionSoft/PlayniteStorageView
+  - Name: Issues Tracker
+    Url: https://github.com/DenisionSoft/PlayniteStorageView/issues

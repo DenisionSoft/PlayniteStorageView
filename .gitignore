@@ -1,0 +1,20 @@
+# Visual Studio / .NET Framework build artifacts
+[Bb]in/
+[Oo]bj/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+
+# WPF temporary projects emitted during XAML compilation
+*_wpftmp.csproj
+*.tmp_proj
+
+# OS junk
+.DS_Store
+Thumbs.db

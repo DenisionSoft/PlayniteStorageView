@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <sys:String x:Key="LOCStorageViewSidebarTitle">Storage</sys:String>
+    <sys:String x:Key="LOCStorageViewPageTitle">Storage</sys:String>
+    <sys:String x:Key="LOCStorageViewRefresh">Refresh</sys:String>
+
+    <sys:String x:Key="LOCStorageViewDriveLabel">Drive:</sys:String>
+    <sys:String x:Key="LOCStorageViewGamesInstalledLabel">Games installed:</sys:String>
+    <sys:String x:Key="LOCStorageViewUsedByGamesLabel">Used by games:</sys:String>
+
+    <sys:String x:Key="LOCStorageViewGamesLegend">Games</sys:String>
+    <sys:String x:Key="LOCStorageViewOtherLegend">Other</sys:String>
+    <sys:String x:Key="LOCStorageViewFreeLegend">Free</sys:String>
+    <sys:String x:Key="LOCStorageViewTotalLegend">Total</sys:String>
+
+    <sys:String x:Key="LOCStorageViewColName">Name</sys:String>
+    <sys:String x:Key="LOCStorageViewColSource">Source</sys:String>
+    <sys:String x:Key="LOCStorageViewColSize">Size</sys:String>
+    <sys:String x:Key="LOCStorageViewColPath">Install directory</sys:String>
+
+    <sys:String x:Key="LOCStorageViewEmpty">No installed Playnite games on this drive.</sys:String>
+    <sys:String x:Key="LOCStorageViewNoDrives">No supported drives found.</sys:String>
+
+    <sys:String x:Key="LOCStorageViewUnknownNote">{0} game(s) on this drive have no size data — they are not counted.</sys:String>
+
+    <sys:String x:Key="LOCStorageViewOpenInstallFolder">Open install folder</sys:String>
+
+</ResourceDictionary>
